@@ -1,0 +1,6 @@
+{
+  "name": "니하오 회화",
+  "description": "상황별 중국어 회화, 병음·성조·음성 발음 듣기 및 퀴즈 연습을 지원하는 오프라인 중국어 회화 학습 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

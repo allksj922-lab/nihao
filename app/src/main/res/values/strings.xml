@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">니하오 회화</string>
+    <string name="nav_phrases">회화</string>
+    <string name="nav_dialogues">대화 연습</string>
+    <string name="nav_quiz">퀴즈</string>
+    <string name="nav_bookmarks">저장함</string>
+    <string name="hero_badge">오프라인 중국어 회화</string>
+    <string name="hero_title">오늘 바로 쓰는 중국어</string>
+    <string name="hero_subtitle">원어민 발음 · 병음 · 성조까지 한 번에</string>
+    <string name="daily_pick_label">오늘의 추천 한마디</string>
+    <string name="search_placeholder">중국어, 병음, 한국어 뜻 검색...</string>
+    <string name="all_categories">전체</string>
+    <string name="tts_speed_slow">0.7x 느리게</string>
+    <string name="tts_speed_normal">1.0x 보통</string>
+    <string name="tts_speed_fast">1.2x 빠르게</string>
+    <string name="tts_unavailable_title">중국어 음성 엔진 안내</string>
+    <string name="tts_unavailable_desc">기기에 중국어(zh-CN) 음성 데이터가 없으면 설정에서 음성을 다운로드해 주세요.</string>
+    <string name="open_tts_settings">TTS 설정 열기</string>
+    <string name="empty_bookmarks_title">저장한 회화가 아직 없어요</string>
+    <string name="empty_bookmarks_desc">자주 쓰는 문장의 별표(☆)를 눌러 나만의 회화 노트를 만들어 보세요.</string>
+    <string name="clear_search">검색어 지우기</string>
+    <string name="cd_hero_banner">중국어 회화 학습 배너 일러스트</string>
+    <string name="cd_empty_bookmarks">빈 저장함 노트 일러스트</string>
+</resources>
